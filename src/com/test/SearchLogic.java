@@ -1,6 +1,6 @@
 package com.test;
 
-public class Testpage {
+public class SearchLogic {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
