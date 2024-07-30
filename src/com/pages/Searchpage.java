@@ -1,6 +1,6 @@
 package com.pages;
 
-public class Supportpage {
+public class Searchpage {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
